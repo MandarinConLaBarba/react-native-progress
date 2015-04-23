@@ -1,0 +1,17 @@
+{
+  "name": "react-native-progress",
+  "version": "1.0.0",
+  "description": "A progress bar component for React Native",
+  "main": "index.js",
+  "author": "Mandarin Drummond <mandarind@gmail.com> (http://mandarindrummond.com)",
+  "peerDependencies": {
+    "react-native": "^0.4.0"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "native",
+    "progressbar",
+    "progress"
+  ]
+}
